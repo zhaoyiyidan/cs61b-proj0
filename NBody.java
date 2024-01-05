@@ -1,4 +1,4 @@
-public class NBody {
+public class NBody   {
     public static double readRadius(String name){
         In in=new In(name);
         int b=in.readInt();
